@@ -1,0 +1,29 @@
+# Arquivos do DBeaver
+*.dbeaver-data-sources.xml
+*.dbeaver
+
+# Arquivos temporários / de backup
+*~
+*.swp
+*.bak
+*.tmp
+
+# Arquivos ocultos do sistema/macOS/Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos Jupyter (caso use no futuro)
+.ipynb_checkpoints/
+
+# Diretórios de IDEs comuns (VSCode, JetBrains, etc.)
+.vscode/
+.idea/
+
+# Diretórios ocultos genéricos
+__pycache__/
+.env
+.env.*
+
+# Logs
+*.log
